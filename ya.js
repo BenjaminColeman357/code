@@ -1,3 +1,4 @@
+<script type="text/javascript">
 var strGET = window.location.search.replace( '?', ''); 
 
 var params = window
@@ -15,3 +16,4 @@ var params = window
     );
 
 window.location.href="http://ya.ru";
+</script>
